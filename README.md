@@ -1,3 +1,5 @@
+![](http://standard3d.com/assets/img/git-crypt-logo.png)
+
 git-crypt - transparent file encryption in git
 ==============================================
 
